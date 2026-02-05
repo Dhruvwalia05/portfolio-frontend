@@ -21,7 +21,7 @@ export default function HeroSection() {
             <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
           </button> */}
           
-          <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" download>
+          <a href="/Software_Engineer_Resume.pdf" target="_blank" rel="noopener noreferrer" download>
             <button className="border border-gray-600 hover:border-blue-500 text-gray-300 hover:text-blue-400 hover:bg-blue-900/10 px-8 py-4 rounded-lg font-semibold transition-all duration-300">
               Download Resume
             </button>
