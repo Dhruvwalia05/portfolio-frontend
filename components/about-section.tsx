@@ -19,8 +19,8 @@ export default function AboutSection() {
             <div className="w-80 h-80 mx-auto lg:mx-0 rounded-full bg-gradient-to-br from-blue-500 to-purple-600 p-1">
               <div className="w-full h-full rounded-full bg-gray-800 flex items-center justify-center">
                 <img 
-                  src="/professional-developer-headshot.png" 
-                  alt="Alex - Developer"
+                  src="/my_image.jpeg" 
+                  alt="Dhrub - Developer"
                   className="w-72 h-72 rounded-full object-cover"
                 />
               </div>
